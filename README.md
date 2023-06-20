@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tuna, and I'm a student of Electronics and Communication Engineering at Kocaeli University, from Kocaeli, Tukey.</p>
+<p align="left">My name is Tuna, and I'm a student of Electronics and Communication Engineering at Kocaeli University, from Kocaeli,Turkey.</p>
 
 ###
 
