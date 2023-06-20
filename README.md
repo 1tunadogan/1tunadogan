@@ -20,7 +20,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1477926296747401219/HxWkIDqO_400x400.png)" height="40" alt="cosmwasm logo"  />
+  <img src="https://pbs.twimg.com/profile_images/1477926296747401219/HxWkIDqO_400x400.png" height="40" alt="cosmwasm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
